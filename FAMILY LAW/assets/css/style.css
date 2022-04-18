@@ -1,0 +1,162 @@
+/* header css start */
+
+header{
+    background-color: #57614d;
+}
+
+header ul li{
+    display: inline;
+}
+
+header ul li a{
+    font: bold 13px Times;
+line-height: 24px;
+color: #b8c6ac;
+text-align: right;
+filter: drop-shadow(0.5px 0.866px 0px rgba(0,0,0,0.3));
+margin-left: 30px;
+}
+
+/* two css start */
+
+#two{
+    background-color: #d9d9d9;
+}
+
+#two h3{
+    width: 307px;
+height: 185px;
+font-size: 30px;
+line-height: 48px;
+color: #4e5944;
+font-family: "Times New Roman";
+text-align: center;
+}
+
+#two .card{
+    background-color: #e9e9e9;
+    border: 1px solid #fff;
+}
+
+
+/* three css start */
+
+#three{
+    background-color: #e3e3e3;
+}
+
+#three h1{
+font-size: 32px;
+line-height: 20px;
+color: #57614e;
+font-family: "Times New Roman";
+}
+
+#three h4{
+font-size: 20px;
+line-height: 24px;
+color: #57614e;
+font-family: "Times New Roman";
+}
+
+#three div h3{
+font-size: 19px;
+line-height: 24px;
+color: #57614e;
+font-family: "Times New Roman";
+}
+
+.grid1{
+    border-right: 3px dashed #fff;
+    width: 700px;
+}
+
+#three p, figcaption{
+font-size: 20px;
+line-height: 24px;
+color: #57614e;
+font-family: "Times New Roman";
+}
+
+
+/* four css start */
+
+#four{
+    background-color: #d9d9d9;
+}
+
+#four h2{
+    font-size: 19px;
+    line-height: 30px;
+    color: #57614e;
+    font-family: "Times New Roman";
+}
+
+#four h3{
+    font: bold 14px Arial;
+line-height: 24px;
+color: #626262;
+margin-top: 30px;
+}
+
+#four p{
+    font-size: 14px;
+    color: #626262;
+    font-family: "Arial";
+}
+
+
+/* five css start */
+
+#five{
+    background-color: #d9d9d9;
+}
+
+#five h3{
+    font: bold 14px Arial;
+line-height: 24px;
+color: #626262;
+margin-top: 30px;
+}
+
+#five p{
+    font-size: 14px;
+    color: #626262;
+    font-family: "Arial";
+}
+
+#five .first{
+    border-right: 1px solid #848683;
+}
+
+#five .third{
+    border-left: 1px solid #848683;
+}
+
+#five button{
+    font-size: 12px;
+line-height: 24px;
+color: #ffffff;
+font-family: "Arial";
+filter: drop-shadow(0.5px 0.866px 0px rgba(0,0,0,0.3));
+}
+
+
+/* six css start */
+
+#six{
+    background-color: #4d5943;
+}
+
+#six p{
+    font-size: 13px;
+color: #e2e2e2;
+font-family: "Arial";
+}
+
+#six div a i{
+    text-decoration: none;
+    font-size: large;
+}
+
+
